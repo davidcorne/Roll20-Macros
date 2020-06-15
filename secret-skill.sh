@@ -13,8 +13,9 @@ do
     echo " /w gm &{template:default&#125; {{name=Group Secret $s Check&#125;&#125; "
     for c in "${characters[@]}"
     do
-        echo "$c=[[1d20 + @{$c|$s}]] "
+        echo -n "{{$c= [[1d20 + @{$c|$s}]]&#125;&#125; "
     done
-    echo -n "| "
+    echo  "| "
+    echo ""
 done
 echo "}"
