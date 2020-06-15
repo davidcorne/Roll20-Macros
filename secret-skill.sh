@@ -6,17 +6,14 @@
 characters=("Perikles T. Blick" "Anne's Character" "Aistra" "Bhelkit" "Rhall the Glorious" "Frik")
 skills="ACROBATICS ARCANA ATHLETICS CRAFTING DECEPTION DIPLOMACY INTIMIDATION MEDICINE NATURE OCCULTISM PERFORMANCE RELIGION SOCIETY STEALTH SURVIVAL THIEVERY"
 
-echo "/w gm Rolling a Secret Check"
 echo -n "?{Which Skill|"
 for s in $skills
 do
     echo "$s,"
-    echo "$s"
-    echo ""
+    echo " /w gm &{template:default&#125; {{name=Group Secret $s Check&#125;&#125; "
     for c in "${characters[@]}"
     do
-        echo "$c:"
-        echo "/w gm [[d20 + @{$c|$s}]] "
+        echo "$c=[[1d20 + @{$c|$s}]] "
     done
     echo -n "| "
 done
