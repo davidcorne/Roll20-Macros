@@ -5,3 +5,9 @@
 ```
 &{template:pf_attack} {{character_name=Bone Devil}} {{subtitle}} {{attack1name=Bite}} {{attack=[[d20 + 14]]}} {{damage=[[1d6 + 5]]}} {{crit_confirm=[[ 1d20 + 14]]}} {{crit_damage=[[d6 + 5]]}} {{attack2name=Claw 1}} {{attack2=[[d20 + 14]]}} {{damage2=[[1d6 + 5]]}} {{crit_confirm2=[[ 1d20 + 14]]}} {{crit_damage2=[[d6 + 5]]}} {{attack3name=Claw 2}} {{attack3=[[d20 + 14]]}} {{damage3=[[1d6 + 5]]}} {{attack4name=Sting}} {{crit_confirm3=[[ 1d20 + 14]]}} {{crit_damage3=[[d6 + 5]]}} {{attack4=[[d20 + 14]]}} {{damage4=[[3d4 + 5]]}} {{crit_confirm4=[[ 1d20 + 14]]}} {{crit_damage4=[[3d4 + 5]]}} {{weapon_notes=Poison DC [[20]] Fort save}}
 ```
+
+## Barbed Devil
+
+```
+&{template:pf_attack} {{character_name=Barbed Devil}} {{subtitle}} {{attack1name=Scorched Ray 1}} {{attack=[[d20 + 18]]}} {{damage=[[4d6]]}} {{crit_confirm=[[ 1d20 + 18]]}} {{crit_damage=[[4d6]]}} {{attack2name=Scorching Ray 2}} {{attack2=[[d20 + 18]]}} {{damage2=[[4d6]]}} {{crit_confirm2=[[ 1d20 + 18]]}} {{crit_damage2=[[4d6]]}}{{weapon_notes=Vs. touch}}
+```
