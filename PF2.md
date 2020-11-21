@@ -29,6 +29,18 @@ The target is then temporarily immune to Treat Wounds actions for 1 hour
 If you succeed at your check, you can continue treating the target to grant additional healing. If you treat them for a total of 1 hour, double the Hit Points they regain from Treat Wounds.
 ```
 
+## Battle Medicine
+
+```
+I've treated wounds during combat:
+**Success:** You get [[2d8]] HP back, but any wounded conditions ARE NOT removed.
+**Critical Success:** an *extra* [[2d8]] HP.
+
+Critical Failure: You take [[1d8]] damage. Oops.
+
+Can try again tomorrow.
+```
+
 ## Underhanded Assault
 
 ```
