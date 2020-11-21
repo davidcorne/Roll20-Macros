@@ -1,7 +1,16 @@
-A PF2 macro.
+# Pathfinder 2e macros
+
+## Initiative Roll
+
+A good Token Action
+
+```
+%{selected|INITIATIVE}
+```
 
 ## Risky Surgery
 
+```
 **Treat wounds**: 10 minutes
 **Target**: One living creature
 **DC:** 20
@@ -18,3 +27,4 @@ A PF2 macro.
 The target is then temporarily immune to Treat Wounds actions for 1 hour
 
 If you succeed at your check, you can continue treating the target to grant additional healing. If you treat them for a total of 1 hour, double the Hit Points they regain from Treat Wounds.
+```
