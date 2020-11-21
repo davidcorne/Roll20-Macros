@@ -1,17 +1,10 @@
 # Pathfinder 2e macros
 
 - [General](#general)
-  * [Initiative Roll](#initiative-roll)
 - [Deception](#deception)
-  * [Feint](#feint)
 - [Medicine](#medicine)
-  * [Risky Surgery](#risky-surgery)
-  * [Battle Medicine](#battle-medicine)
 - [Stealth](#stealth)
-  * [Underhanded Assault](#underhanded-assault)
 - [Items](#items)
-  * [Diplomats Badge](#diplomats-badge)
-  * [Maestro's Charming Flute](#maestros-charming-flute)
 
 ## General
 
