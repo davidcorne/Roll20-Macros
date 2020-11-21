@@ -116,3 +116,12 @@ DC [[10 + @{performance}]] Will save
 **Failure** The target's attitude becomes friendly toward you. If it was friendly, it becomes helpful. It can't use hostile actions against you.
 **Critical Failure** The target's attitude becomes helpful toward you, and it can't use hostile actions against you.
 ```
+
+### Healing Potions
+
+```
+I'm trying to Heal you with a Potion.
+If it's a **Minor** you get: [[1d8]] HP back.
+If it's a **Lesser** you get [[2d8 + 5]] HP back.
+If it's a **Moderate** you get [[3d8 + 10]] HP back.
+```
