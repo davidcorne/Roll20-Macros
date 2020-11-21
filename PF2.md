@@ -2,9 +2,9 @@
 
 ##### Table of Contents  
 - [General](#General)
+- [Deception](#Deception)
 - [Medicine](#Medicine)
 - [Stealth](#Stealth)
-- [Deception](#Deception)
 - [Items](#Items)
 
 ## General
@@ -15,6 +15,24 @@ A good Token Action
 
 ```
 %{selected|INITIATIVE}
+```
+
+## Deception
+
+### Feint
+
+Note, this has a +1 on the roll because I have a Glamorous Buckler if you don't, remove that +1.
+
+```
+With a misleading flourish, you leave an opponent unprepared for your real attack. Attempt a Deception check against that opponent’s Perception DC.
+
+**Deception** [[ d20 +@{deception} +1]] vs. Perception DC
+
+**Critical Success** You throw your enemy’s defenses against you entirely off. The target is flat-footed against melee attacks that you attempt against it until the end of your next turn.
+
+**Success** Your foe is fooled, but only momentarily. The target is flat-footed against the next melee attack that you attempt against it before the end of your current turn.
+
+**Critical Failure** Your feint backfires. You are flat-footed against melee attacks the target attempts against you until the end of your next turn.
 ```
 
 ## Medicine
@@ -62,24 +80,6 @@ You capitalize on the distraction provided by an ally. You Sneak up to a foe adj
 Stealth [[d20 +@{stealth} -2]]
 
 If your Stealth check against the chosen foe succeeds, you can make a melee Strike against that foe at the end of your Sneak.
-```
-
-## Deception
-
-### Feint
-
-Note, this has a +1 on the roll because I have a Glamorous Buckler if you don't, remove that +1.
-
-```
-With a misleading flourish, you leave an opponent unprepared for your real attack. Attempt a Deception check against that opponent’s Perception DC.
-
-**Deception** [[ d20 +@{deception} +1]] vs. Perception DC
-
-**Critical Success** You throw your enemy’s defenses against you entirely off. The target is flat-footed against melee attacks that you attempt against it until the end of your next turn.
-
-**Success** Your foe is fooled, but only momentarily. The target is flat-footed against the next melee attack that you attempt against it before the end of your current turn.
-
-**Critical Failure** Your feint backfires. You are flat-footed against melee attacks the target attempts against you until the end of your next turn.
 ```
 
 ## Items
