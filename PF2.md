@@ -1,11 +1,11 @@
 # Pathfinder 2e macros
 
 ##### Table of Contents  
-[General](#General)  
-[Medicine](#Medicine) 
-[Stealth](#Stealth)
-[Deception](#Deception)
-[Items](#Items)
+- [General](#General)
+- [Medicine](#Medicine)
+- [Stealth](#Stealth)
+- [Deception](#Deception)
+- [Items](#Items)
 
 ## General
 
