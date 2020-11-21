@@ -11,7 +11,7 @@
   * [Underhanded Assault](#underhanded-assault)
 - [Items](#items)
   * [Diplomats Badge](#diplomats-badge)
-  * [Maestro's Charming Flute](#maestro-s-charming-flute)
+  * [Maestro's Charming Flute](#maestros-charming-flute)
 
 ## General
 
