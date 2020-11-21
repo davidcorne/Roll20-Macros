@@ -1,6 +1,15 @@
 # Pathfinder 2e macros
 
-## Initiative Roll
+##### Table of Contents  
+[General](#General)  
+[Medicine](#Medicine) 
+[Stealth](#Stealth)
+[Deception](#Deception)
+[Items](#Items)
+
+## General
+
+### Initiative Roll
 
 A good Token Action
 
@@ -8,7 +17,9 @@ A good Token Action
 %{selected|INITIATIVE}
 ```
 
-## Risky Surgery
+## Medicine
+
+### Risky Surgery
 
 ```
 **Treat wounds**: 10 minutes
@@ -29,7 +40,7 @@ The target is then temporarily immune to Treat Wounds actions for 1 hour
 If you succeed at your check, you can continue treating the target to grant additional healing. If you treat them for a total of 1 hour, double the Hit Points they regain from Treat Wounds.
 ```
 
-## Battle Medicine
+### Battle Medicine
 
 ```
 I've treated wounds during combat:
@@ -41,7 +52,9 @@ Critical Failure: You take [[1d8]] damage. Oops.
 Can try again tomorrow.
 ```
 
-## Underhanded Assault
+## Stealth
+
+### Underhanded Assault
 
 ```
 You capitalize on the distraction provided by an ally. You Sneak up to a foe adjacent to one of your allies. You can roll against the foe you’re Sneaking up on, even if it’s currently observing you, as though you were hidden. You take a –2 penalty on your Stealth check. 
@@ -51,7 +64,9 @@ Stealth [[d20 +@{stealth} -2]]
 If your Stealth check against the chosen foe succeeds, you can make a melee Strike against that foe at the end of your Sneak.
 ```
 
-## Feint
+## Deception
+
+### Feint
 
 Note, this has a +1 on the roll because I have a Glamorous Buckler if you don't, remove that +1.
 
@@ -67,7 +82,9 @@ With a misleading flourish, you leave an opponent unprepared for your real attac
 **Critical Failure** Your feint backfires. You are flat-footed against melee attacks the target attempts against you until the end of your next turn.
 ```
 
-## Diplomats Badge
+## Items
+
+### Diplomats Badge
 
 ```
 Attempt a **DC 20** check to Recall Knowledge about people of a human ethnicity, a non-human ancestry, or some other type of creature. (The GM determines what your options are.) 
@@ -77,7 +94,7 @@ Attempt a **DC 20** check to Recall Knowledge about people of a human ethnicity,
 If you succeed, the badge’s bonus increases to +2 for Diplomacy checks with creatures of that group for the rest of the day.
 ```
 
-## Maestro's Charming Flute
+### Maestro's Charming Flute
 
 ```
 Range 30 feet; Targets 1 creature
