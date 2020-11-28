@@ -2,7 +2,8 @@
 # ?{Which Skill|ACROBATICS, Alex: [[d20 + @{Alex's Character|ACROBATICS}]] Anne: [[d20 + @{Anne's Character|ACROBATICS}]]}
 
 characters=("Chad Blaze" "Sareth Kashin" "Maximus" "Minimus" "Hugo Augustus Rosebud Quentin Thethird" "Ordlin Autumfall")
-skills=("PERCEPTION" "STEALTH")
+skills=("PERCEPTION" "ACROBATICS" "ARCANA" "ATHLETICS" "CRAFTING" "DECEPTION" "DIPLOMACY" "INTIMIDATION" "MEDICINE" "NATURE" "OCCULTISM" "PERFORMANCE" "RELIGION" "SOCIETY" "STEALTH" "SURVIVAL" "THIEVERY")
+
 end_braces="&#125;&#125;"
 
 echo -n "?{Which Skill"
