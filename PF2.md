@@ -16,6 +16,14 @@ A good Token Action
 %{selected|INITIATIVE}
 ```
 
+### Flat Check
+
+Another good token action
+
+```
+/em @{selected|token_name} rolls a [[d20]] on their flat check
+```
+
 ## Deception
 
 ### Feint
