@@ -11,3 +11,9 @@
 ```
 &{template:pf_attack} {{character_name=Barbed Devil}} {{subtitle}} {{attack1name=Scorched Ray 1}} {{attack=[[d20 + 18]]}} {{damage=[[4d6]]}} {{crit_confirm=[[ 1d20 + 18]]}} {{crit_damage=[[4d6]]}} {{attack2name=Scorching Ray 2}} {{attack2=[[d20 + 18]]}} {{damage2=[[4d6]]}} {{crit_confirm2=[[ 1d20 + 18]]}} {{crit_damage2=[[4d6]]}}{{weapon_notes=Vs. touch}}
 ```
+
+## Bebilith
+
+```
+&{template:pf_attack} {{character_name=Bebilith}} {{subtitle}} {{attack1name=Bite}} {{attack=[[d20 + 19]]}} {{damage=[[2d6 + 9]]}} {{crit_confirm=[[ 1d20 + 19]]}} {{crit_damage=[[2d6 + 9]]}} {{attack2name=Claw 1}} {{attack2=[[d20 + 19]]}} {{damage2=[[2d4+9]]}} {{crit_confirm2=[[ 1d20 + 19]]}} {{crit_damage2=[[2d4 + 9]]}}{{attack3name=Claw 2}} {{attack3=[[d20 + 19]]}} {{damage3=[[2d4+9]]}} {{crit_confirm3=[[ 1d20 + 19]]}} {{crit_damage3=[[2d4 + 9]]}}{{weapon_notes=Dismantle Armor CMD [[d20 + 23]]}}
+```
